@@ -1,5 +1,5 @@
 # DSA-Sheet-Solutions
-My solutions for the DSA sheet provided by https://www.youtube.com/c/LoveBabbar1/featured
+My solutions for the DSA sheet provided by https://www.youtube.com/c/LoveBabbar1
 
 All the solutions will be in C++ and optimized to the best of my ability.
 
